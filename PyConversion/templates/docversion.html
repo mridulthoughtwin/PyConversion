@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %} 
+<center>
+<div class="row">
+	<div class="col-sm-6" style="position: relative; left:25%">
+		<h4 class="text-center alert alert-info" style="position: relative; top:40%">Document Converter</h4>
+		<br><br>
+		<form action="" type=file enctype="multipart/form-data" method="post" style="position: relative; top:40%">
+			{% csrf_token %}
+			{{ form.as_table }}
+			<br><br><br>
+      <input type="submit" class=" btn btn-primary" value="Convert">
+		</form>
+	</div>
+</div>  
+</center>
+{% endblock content %}	

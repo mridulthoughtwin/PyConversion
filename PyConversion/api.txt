@@ -1,0 +1,81 @@
+usd	0.013007	76.884162
+euro	0.012288	81.377309
+Brtsh	0.010515	95.105795
+Astrln	0.018338	54.531751
+Cndn	0.016693	59.906415
+SingaporeDollar	0.018004	55.542289
+SwissFranc	0.012786	78.208688
+MalaysianRinggit	0.056834	17.595212
+JapaneseYen	1.695502	0.589796
+ChineseYuanRenminbi	0.086763	11.525697
+IndianRupee	77.367355	0.012925
+Euro	0.950053	1.052573
+British Pound	0.812571	1.230662
+Indian Rupee	77.469113	0.012908
+Australian Dollar	1.428693	0.699940
+Canadian Dollar	1.293449	0.773127
+Singapore Dollar	1.392578	0.718093
+Swiss Franc	0.992150	1.007913
+Malaysian Ringgit	4.383489	0.228129
+Japanese Yen	131.209384	0.007621
+Chinese Yuan Renminbi	6.725852	0.148680
+US Dollar	1.052842	0.949810
+British Pound	0.854801	1.169863
+Indian Rupee	81.560667	0.012261
+Australian Dollar	1.503751	0.665004
+Canadian Dollar	1.361585	0.734438
+Singapore Dollar	1.465899	0.682175
+Swiss Franc	1.043888	0.957957
+Malaysian Ringgit	4.614926	0.216688
+Japanese Yen	138.124178	0.007240
+Chinese Yuan Renminbi	7.081598	0.141211
+US Dollar	1.231871	0.811773
+Euro	1.169520	0.855051
+Indian Rupee	95.431561	0.010479
+Australian Dollar	1.758951	0.568521
+Canadian Dollar	1.593102	0.627706
+Singapore Dollar	1.715092	0.583059
+Swiss Franc	1.220939	0.819042
+Malaysian Ringgit	5.399494	0.185203
+Japanese Yen	161.584838	0.006189
+Chinese Yuan Renminbi	8.286503	0.120678
+US Dollar	0.700430	1.427694
+Euro	0.665097	1.503540
+British Pound	0.568792	1.758113
+Indian Rupee	54.273888	0.018425
+Canadian Dollar	0.905992	1.103762
+Singapore Dollar	0.975244	1.025384
+Swiss Franc	0.694810	1.439243
+Malaysian Ringgit	3.070375	0.325693
+Japanese Yen	91.881992	0.010884
+Chinese Yuan Renminbi	4.710717	0.212282
+US Dollar	0.773012	1.293640
+Euro	0.733648	1.363052
+British Pound	0.627548	1.593504
+Indian Rupee	59.890967	0.016697
+Australian Dollar	1.103594	0.906131
+Singapore Dollar	1.076239	0.929162
+Swiss Franc	0.766507	1.304620
+Malaysian Ringgit	3.388070	0.295153
+Japanese Yen	101.393623	0.009863
+Chinese Yuan Renminbi	5.199573	0.192323
+US Dollar	1.008563	0.991510
+Euro	0.957143	1.044776
+British Pound	0.818754	1.221368
+Indian Rupee	78.141718	0.012797
+Australian Dollar	1.440383	0.694260
+Canadian Dollar	1.304876	0.766357
+Singapore Dollar	1.404168	0.712165
+Malaysian Ringgit	4.420199	0.226234
+Japanese Yen	132.315698	0.007558
+Chinese Yuan Renminbi	6.783799	0.147410
+US Dollar	0.718214	1.392343
+Euro	0.681707	1.466907
+British Pound	0.582884	1.715607
+Indian Rupee	55.642431	0.017972
+Australian Dollar	1.025734	0.974912
+Canadian Dollar	0.929281	1.076101
+Swiss Franc	0.712083	1.404330
+Malaysian Ringgit	3.147879	0.317674
+Japanese Yen	94.214457	0.010614
+Chinese Yuan Renminbi	4.831031	0.206995
